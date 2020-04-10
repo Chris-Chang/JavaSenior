@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/day13/day13.iml" filepath="$PROJECT_DIR$/day13/day13.iml" />
       <module fileurl="file://$PROJECT_DIR$/java9Test/java9Test.iml" filepath="$PROJECT_DIR$/java9Test/java9Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/jdbc_1/jdbc_1.iml" filepath="$PROJECT_DIR$/jdbc_1/jdbc_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc_2/jdbc_2.iml" filepath="$PROJECT_DIR$/jdbc_2/jdbc_2.iml" />
     </modules>
   </component>
 </project>
